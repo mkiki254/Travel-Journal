@@ -1,0 +1,79 @@
+@font-face {
+    font-family: Inter;
+    src: url(./fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    box-sizing: border-box;
+    font-family: Inter;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F55A5A;
+    height: 55px;
+}
+
+.nav--icon{
+    width: 32px;
+    height: 32px;
+    margin: 7px;
+}
+
+.nav--title{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.location--icon{
+    width: 14px;
+    height: 20px;
+    margin-right: 4px;
+}
+
+.container{
+    margin: 20px;
+}
+
+.app--content{
+    display: flex;
+}
+
+.section--location{
+    display: flex;
+}
+
+.destination--icon{
+    width: 125px;
+    height: 168px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+
+.location--name{
+    font-weight: 400;
+    color: #2B283A;
+    margin-right: 12px;
+}
+
+a{
+    color: #918E9B;
+}
+
+.title{
+    margin-top: 7px;
+    font-size: 25px;
+}
+
+.dates{
+    margin-top: 20px;
+    font-weight: 700;
+}
