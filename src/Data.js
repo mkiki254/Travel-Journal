@@ -57,6 +57,6 @@ export default [
         start_date: "05 August, 2022",
         end_date: "15 August, 2022",
         description: "Found along the coast of Kenya, Diani beach has sparkling white sands, palm trees and lush greenery that invites you to relax under a beach umbrella with a refreshing drink.",
-        imgUrl: "nakuru-national-park.jpg"
+        imgUrl: "diani-beach.jpg"
     }
 ]
